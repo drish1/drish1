@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Drishti Sharma</h1>
 <h3 align="center">Passionate about Advancing Knowledge and Driving Innovation</h3>
+<h2 align = "center"> I am a student at IIT Indore in department of Computer Science and Engineering. Currently my research work is in the field of Natural Language Processing. I am brushing up my JavaScript concepts as of now.</h2>
 <img  align = "right" alt = "coding" width = "400" src = "https://github.com/drish1/drish1/blob/main/animated%20gif.gif?raw=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drish1&label=Profile%20views&color=0e75b6&style=flat" alt="drish1" /> </p>
 
